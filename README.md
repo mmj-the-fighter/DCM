@@ -31,8 +31,9 @@ An example of how a Unity3D game can be programmed for accepting commands over a
 - Android Client APK built for Android 12
 > https://www.dropbox.com/scl/fi/qqd0doh44abrnje1e1gk5/dcmc3.apk?rlkey=tahvcs9fnsihh9zyb577rt0xp&dl=0   
 
-- Blog post
-> https://gamedev1001.blogspot.com/2017/07/game-testing-framework-idea.html  
+- Blog post 
+> https://gamedev1001.blogspot.com/2017/07/game-testing-framework-idea.html 
+- Vlog post 
 [Demo on YouTube](https://www.youtube.com/watch?v=O3h13B2mhZw)
 
 # Acknowlegements  
