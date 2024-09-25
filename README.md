@@ -33,7 +33,7 @@ An example of how a Unity3D game can be programmed for accepting commands over a
 
 - Blog post 
 > https://gamedev1001.blogspot.com/2017/07/game-testing-framework-idea.html 
-- Vlog post 
+- Vlog post  
 [Demo on YouTube](https://www.youtube.com/watch?v=O3h13B2mhZw)
 
 # Acknowlegements  
