@@ -1,5 +1,6 @@
 # DCM ( a.k.a Debug Connection Manager)
 An example of how a Unity3D game can be programmed for accepting commands over a LAN and perform actions on those commands.  
+[Update] Added dcm server code for c++ applications and games in folder dcm cpp.    
 
 # Example scenario    
 >The game is on pre-release.   
@@ -33,8 +34,10 @@ An example of how a Unity3D game can be programmed for accepting commands over a
 
 - Blog post 
 > https://gamedev1001.blogspot.com/2017/07/game-testing-framework-idea.html 
-- Vlog post  
-[Demo on YouTube](https://www.youtube.com/watch?v=O3h13B2mhZw)
+- Vlog post 1   
+[Demo on YouTube: C# Unity3D](https://www.youtube.com/watch?v=O3h13B2mhZw)
+- Vlog post 2  
+[Demo on YouTube: C++ LearnOpenGL Sample](https://www.youtube.com/watch?v=4C339gv6ZCY)
 
 # Acknowlegements  
 >Thanks to the developers of Unreal Tournament demo (1999) for making an in-game console for commands. That was my inspiration.   
