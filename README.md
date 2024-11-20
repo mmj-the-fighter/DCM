@@ -1,6 +1,6 @@
 # DCM ( a.k.a Debug Connection Manager)
 An example of how a Unity3D game can be programmed for accepting commands over a LAN and perform actions on those commands.  
-[Update] Added dcm server code for c++ applications and games in folder dcm cpp.    
+[Update] Added dcm server code for c++ applications and games in folder dcmcpp.    
 
 # Example scenario    
 >The game is on pre-release.   
